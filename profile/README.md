@@ -1,0 +1,1 @@
+![alt text](../system.png "System schema")
